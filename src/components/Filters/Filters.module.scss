@@ -1,0 +1,22 @@
+.container {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 60vw;
+  overflow-x: scroll;
+  margin: 0 auto;
+
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+@media screen and (min-width: 1280px) {
+  .button {
+    grid-column-start: span 1;
+    justify-self: center;
+    width: 100px;
+  }
+}

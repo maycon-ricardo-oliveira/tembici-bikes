@@ -1,0 +1,317 @@
+{
+	"object": "list",
+	"results": [
+			{
+					"object": "page",
+					"id": "3ea028c1-c042-4b8c-99b4-49fb7304555a",
+					"created_time": "2024-03-23T02:30:00.000Z",
+					"last_edited_time": "2024-03-26T01:47:00.000Z",
+					"created_by": {
+							"object": "user",
+							"id": "f9681631-245b-43b3-920c-4e187cb65378"
+					},
+					"last_edited_by": {
+							"object": "user",
+							"id": "f9681631-245b-43b3-920c-4e187cb65378"
+					},
+					"cover": null,	
+					"icon": null,
+					"parent": {
+							"type": "database_id",
+							"database_id": "f5574781-ad2e-4d5e-8599-0658c3803c5c"
+					},
+					"archived": false,
+					"in_trash": false,
+					"properties": {
+							"Bairro": {
+									"id": "BnSU",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "nOs=",
+													"name": "Moema",
+													"color": "pink"
+											}
+									]
+							},
+							"Endereço": {
+									"id": "JpML",
+									"type": "rich_text",
+									"rich_text": [
+											{
+													"type": "text",
+													"text": {
+															"content": "Praça do Ciclista, próximo ao número 2457 da Av. Paulista / Esquina com a Rua da Consolação",
+															"link": null
+													},
+													"annotations": {
+															"bold": false,
+															"italic": false,
+															"strikethrough": false,
+															"underline": false,
+															"code": false,
+															"color": "default"
+													},
+													"plain_text": "Praça do Ciclista, próximo ao número 2457 da Av. Paulista / Esquina com a Rua da Consolação",
+													"href": null
+											}
+									]
+							},
+							"Plano": {
+									"id": "QvHC",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "zdd}",
+													"name": "Básico",
+													"color": "default"
+											},
+											{
+													"id": "wOJl",
+													"name": "Completo",
+													"color": "green"
+											}
+									]
+							},
+							"Dia da Semana": {
+									"id": "WbZ%7B",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "\\s@q",
+													"name": "Sexta",
+													"color": "default"
+											}
+									]
+							},
+							"Cobrança Adicional": {
+									"id": "_X%5Di",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "mstb",
+													"name": "Sim",
+													"color": "orange"
+											}
+									]
+							},
+							"Estação": {
+									"id": "jpnK",
+									"type": "rich_text",
+									"rich_text": []
+							},
+							"Horário": {
+									"id": "sI%3CW",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "fND<",
+													"name": "até 10h",
+													"color": "default"
+											}
+									]
+							},
+							"Elétrica": {
+									"id": "shL_",
+									"type": "number",
+									"number": 0
+							},
+							"Mecânica": {
+									"id": "tP%5Eu",
+									"type": "number",
+									"number": 0
+							},
+							"Title": {
+									"id": "title",
+									"type": "title",
+									"title": [
+											{
+													"type": "text",
+													"text": {
+															"content": "R$ 0,00",
+															"link": null
+													},
+													"annotations": {
+															"bold": false,
+															"italic": false,
+															"strikethrough": false,
+															"underline": false,
+															"code": false,
+															"color": "default"
+													},
+													"plain_text": "R$ 0,00",
+													"href": null
+											}
+									]
+							}
+					},
+					"url": "https://www.notion.so/R-0-00-3ea028c1c0424b8c99b449fb7304555a",
+					"public_url": null
+			},
+			{
+					"object": "page",
+					"id": "cbbdef0d-01d3-4557-9c64-d62bd30e6a96",
+					"created_time": "2024-03-23T00:58:00.000Z",
+					"last_edited_time": "2024-03-24T18:25:00.000Z",
+					"created_by": {
+							"object": "user",
+							"id": "f9681631-245b-43b3-920c-4e187cb65378"
+					},
+					"last_edited_by": {
+							"object": "user",
+							"id": "f9681631-245b-43b3-920c-4e187cb65378"
+					},
+					"cover": null,
+					"icon": null,
+					"parent": {
+							"type": "database_id",
+							"database_id": "f5574781-ad2e-4d5e-8599-0658c3803c5c"
+					},
+					"archived": false,
+					"in_trash": false,
+					"properties": {
+							"Bairro": {
+									"id": "BnSU",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "?iH<",
+													"name": "Vila Mariana",
+													"color": "default"
+											}
+									]
+							},
+							"Endereço": {
+									"id": "JpML",
+									"type": "rich_text",
+									"rich_text": [
+											{
+													"type": "text",
+													"text": {
+															"content": "R. Leôncio de Carvalho 166",
+															"link": null
+													},
+													"annotations": {
+															"bold": false,
+															"italic": false,
+															"strikethrough": false,
+															"underline": false,
+															"code": false,
+															"color": "default"
+													},
+													"plain_text": "R. Leôncio de Carvalho 166",
+													"href": null
+											}
+									]
+							},
+							"Plano": {
+									"id": "QvHC",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "zdd}",
+													"name": "Básico",
+													"color": "default"
+											}
+									]
+							},
+							"Dia da Semana": {
+									"id": "WbZ%7B",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "nNcV",
+													"name": "Sábado",
+													"color": "default"
+											}
+									]
+							},
+							"Cobrança Adicional": {
+									"id": "_X%5Di",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "DKYX",
+													"name": "Não",
+													"color": "default"
+											}
+									]
+							},
+							"Estação": {
+									"id": "jpnK",
+									"type": "rich_text",
+									"rich_text": [
+											{
+													"type": "text",
+													"text": {
+															"content": "459 - Leôncio de Carvalho",
+															"link": null
+													},
+													"annotations": {
+															"bold": false,
+															"italic": false,
+															"strikethrough": false,
+															"underline": false,
+															"code": false,
+															"color": "default"
+													},
+													"plain_text": "459 - Leôncio de Carvalho",
+													"href": null
+											}
+									]
+							},
+							"Horário": {
+									"id": "sI%3CW",
+									"type": "multi_select",
+									"multi_select": [
+											{
+													"id": "sNQ|",
+													"name": "14h - 20h",
+													"color": "default"
+											}
+									]
+							},
+							"Elétrica": {
+									"id": "shL_",
+									"type": "number",
+									"number": 0
+							},
+							"Mecânica": {
+									"id": "tP%5Eu",
+									"type": "number",
+									"number": 10
+							},
+							"Title": {
+									"id": "title",
+									"type": "title",
+									"title": [
+											{
+													"type": "text",
+													"text": {
+															"content": "0",
+															"link": null
+													},
+													"annotations": {
+															"bold": false,
+															"italic": false,
+															"strikethrough": false,
+															"underline": false,
+															"code": false,
+															"color": "default"
+													},
+													"plain_text": "0",
+													"href": null
+											}
+									]
+							}
+					},
+					"url": "https://www.notion.so/0-cbbdef0d01d345579c64d62bd30e6a96",
+					"public_url": null
+			}
+	],
+	"next_cursor": null,
+	"has_more": false,
+	"type": "page_or_database",
+	"page_or_database": {},
+	"request_id": "183d51f9-8124-4743-aee7-6d0fff50ac34"
+}

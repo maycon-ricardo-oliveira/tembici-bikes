@@ -1,0 +1,132 @@
+[
+	{
+			"options": [
+					{
+							"id": "nOs=",
+							"name": "Moema",
+							"description": null
+					},
+					{
+							"id": "on~X",
+							"name": "Pinheiros",
+							"description": null
+					},
+					{
+							"id": "XsA_",
+							"name": "Consolação",
+							"description": null
+					},
+					{
+							"id": "?iH<",
+							"name": "Vila Mariana",
+							"description": null
+					}
+			],
+			"name": "Bairro",
+			"queryName": "neighborhood",
+			"type": "multi_select"
+	},
+	{
+			"options": [
+					{
+							"id": "wOJl",
+							"name": "Completo",
+							"description": null
+					},
+					{
+							"id": "zdd}",
+							"name": "Básico",
+							"description": null
+					}
+			],
+			"name": "Plano",
+			"queryName": "plan",
+			"type": "multi_select"
+	},
+	{
+			"options": [
+					{
+							"id": "sfzQ",
+							"name": "Domingo",
+							"description": null
+					},
+					{
+							"id": "^pee",
+							"name": "Quinta",
+							"description": null
+					},
+					{
+							"id": "viEB",
+							"name": "Quarta",
+							"description": null
+					},
+					{
+							"id": "gcdW",
+							"name": "Terça",
+							"description": null
+					},
+					{
+							"id": "gcBd",
+							"name": "Segunda",
+							"description": null
+					},
+					{
+							"id": "\\s@q",
+							"name": "Sexta",
+							"description": null
+					},
+					{
+							"id": "nNcV",
+							"name": "Sábado",
+							"description": null
+					}
+			],
+			"name": "Dia da Semana",
+			"queryName": "dayOfWeek",
+			"type": "multi_select"
+	},
+	{
+			"options": [
+					{
+							"id": "mstb",
+							"name": "Sim",
+							"description": null
+					},
+					{
+							"id": "DKYX",
+							"name": "Não",
+							"description": null
+					}
+			],
+			"name": "Cobrança Adicional",
+			"queryName": "addCharge",
+			"type": "multi_select"
+	},
+	{
+			"options": [
+					{
+							"id": "txG[",
+							"name": "10h - 14h",
+							"description": null
+					},
+					{
+							"id": "dUp_",
+							"name": "após 20h",
+							"description": null
+					},
+					{
+							"id": "fND<",
+							"name": "até 10h",
+							"description": null
+					},
+					{
+							"id": "sNQ|",
+							"name": "14h - 20h",
+							"description": null
+					}
+			],
+			"name": "Horário",
+			"queryName": "time",
+			"type": "multi_select"
+	}
+]
